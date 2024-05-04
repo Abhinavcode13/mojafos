@@ -16,9 +16,9 @@ dependencies:
   version: 17.11.6
 - name: elasticsearch
   repository: https://charts.bitnami.com/bitnami
-  version: 19.9.2
+  version: 21.0.2
 - name: mysql
   repository: https://charts.bitnami.com/bitnami
   version: 9.4.5
-digest: sha256:7ba3ea9a03eaa2abafee8c647e7976a22d7b82ad48fdd2a9dfbaa3bb65bbf910
-generated: "2023-09-06T11:55:49.830694633Z"
+digest: sha256:8efdfeb642291fcffa37d3997609778ef028235fa8e24a431cda1eabe45be666
+generated: "2024-05-04T11:49:21.729703031Z"
